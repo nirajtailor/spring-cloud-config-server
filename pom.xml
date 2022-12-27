@@ -8,7 +8,7 @@
 		<version>2.6.6</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>in.retailio</groupId>
+	<groupId>in.nirajtailor</groupId>
 	<artifactId>spring-cloud-config-server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-cloud-config-server</name>
