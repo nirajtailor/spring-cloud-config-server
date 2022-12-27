@@ -1,0 +1,4 @@
+# Autoconfiguration
+org.springframework.cloud.bootstrap.BootstrapConfiguration=\
+org.springframework.boot.autoconfigure.jdbc.JdbcTemplateAutoConfiguration,\
+org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration
